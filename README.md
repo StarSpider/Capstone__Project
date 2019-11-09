@@ -29,6 +29,3 @@ You will also need to have software installed to run and execute an [iPython Not
 Open `Ipython Notebook` in the root folder. I learnt that command would be changed to `Jupyter Notebook`
 
 
-## Data
-
-This project uses the [The Street View House Numbers (SVHN) Dataset](http://ufldl.stanford.edu/housenumbers/).
